@@ -1,0 +1,4 @@
+ID,Nome,Email,Senha,Permissao
+1,Alice Silva,alice@example.com,senha123,gerente
+2,Bob Santos,bob@example.com,senha456,funcionario
+3,Carol Oliveira,carol@example.com,senha789,estagiario
